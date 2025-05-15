@@ -1,3 +1,4 @@
+#PLEASE ACCESS THE ORG GROUP HERE - https://github.com/Twin-Ports-Coders 
 
 # TPCG - Twin Ports Coders Group
 This GitHub Repo was created to facilitate group sharing of code and communication for the Twin Ports Coders Group.
